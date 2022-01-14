@@ -1,28 +1,35 @@
 # swan_origami
 
-### paper preparation
+## 95mm swan (six per A4 sheet)
 
-start with an A4 sheet of tracing paper.
+62mm
 
-cut into six 99x99mm squares.
+18mm
 
-fold diagonally.
+11mm
 
-trim in a paper cutter at 97mm.
+8mm
 
-rotate to cut the other side of the triangle.
+## 78mm swan (fits in baccy tin)
 
-trim at 95mm.
+51mm
 
-## major folds
+15mm
 
-61mm from tip
+9mm
 
-18mm from tip
+7mm
 
-11mm from tip
+## 70mm swan (made from receipts)
 
-8mm from tip
+46mm
+
+13mm
+
+8mm
+
+6mm
+
 
 
 
