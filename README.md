@@ -1,6 +1,4 @@
-# swan_origami
-
-## 95mm swan (six per A4 sheet)
+# 95mm swan (six per A4 sheet)
 
 62mm
 
@@ -10,7 +8,7 @@
 
 8mm
 
-## 78mm swan (fits in baccy tin)
+# 78mm swan (fits in baccy tin)
 
 51mm
 
@@ -20,7 +18,7 @@
 
 7mm
 
-## 70mm swan (made from receipts)
+# 70mm swan (made from receipts)
 
 46mm
 
